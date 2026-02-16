@@ -5,8 +5,5 @@ Une autre modification
 
 Ajout fonction de démo
 
-<<<<<<< HEAD
 AXEL
-=======
 TRISTAN
->>>>>>> fdfe238 (Moi)
